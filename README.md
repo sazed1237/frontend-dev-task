@@ -30,12 +30,8 @@ Ensure you have Node.js installed.
 - Others project Repository : 
 - git repo 1: https://github.com/sazed1237/helpestBd-client
 - git repo 2: https://github.com/sazed1237/hotel-villa
-- 
+  
 =====================================================================
 - You can also visit my GitHub or Portfolio
 - Portfolio Link: https://sazedulislam.netlify.app/
 - GitHub Link: https://github.com/sazed1237?tab=repositories 
-=====================================================================
-
-
-- 
