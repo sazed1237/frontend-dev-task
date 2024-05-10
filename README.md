@@ -1,6 +1,6 @@
 # Frontend Development Task
 
-## Prerequisites
+## Prerequisites to run the project
 - Node.js 
 - npm (comes with Node.js)
   
