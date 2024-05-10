@@ -19,7 +19,7 @@ Ensure you have Node.js installed.
 
 
 ========================================================================
-- I have completed this Project within approximately 4hours.
+- I have completed this Project within approximately 5 hours.
 
 - live project 1: https://helpestbd-ff723.web.app/
 - Live Project 2: https://bistro-boss-9d946.web.app/
