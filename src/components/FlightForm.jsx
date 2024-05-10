@@ -7,7 +7,7 @@ const FlightForm = () => {
     const [data, setData] = useState([])
 
     const dataFetch = async () => {
-        const dataResponse = await fetch('../../public/data/data.json')
+        const dataResponse = await fetch('data/data.json')
 
         const data = await dataResponse.json()
         setData(data)
